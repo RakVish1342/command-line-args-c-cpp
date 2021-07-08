@@ -1,5 +1,8 @@
 Command Line Arguments for C code.
 ===
 
-Source: [GNU GetOpt Function](https://www.boost.org/doc/libs/1_36_0/doc/html/program_options/tutorial.html)
+Source: 
 
+[GNU GetOpt Function](https://www.gnu.org/software/libc/manual/html_node/Using-Getopt.html)
+
+[GNU GetOpt Example](https://www.gnu.org/software/libc/manual/html_node/Example-of-Getopt.html)
